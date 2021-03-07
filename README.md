@@ -1,4 +1,4 @@
-https://dev.azure.com/rmalinovskiy/Training/_apis/build/status/foxlee90210.python-sample-vscode-flask-tutorial?branchName=master
+[![Build Status](https://dev.azure.com/rmalinovskiy/Training/_apis/build/status/foxlee90210.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/rmalinovskiy/Training/_build/latest?definitionId=1&branchName=master)
 
 # Python/Flask Tutorial for Visual Studio Code
 
